@@ -1,0 +1,9 @@
+{
+    "api_key": "AIzaSyCtUkpYsbdccKHDITNcWzmlYB_lHf75AOg",
+    "gemini_model": "gemini-2.5-flash",
+    "model_size": "tiny",
+    "device": "auto",
+    "compute_type": "int8",
+    "crf": "23",
+    "preset": "medium"
+}

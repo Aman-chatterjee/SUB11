@@ -1,0 +1,47 @@
+# Build outputs
+build/
+dist/
+*.app/
+*.AppImage
+*.exe
+*.dmg
+*.deb
+*.rpm
+
+# PyInstaller
+*.spec.bak
+__pycache__/
+*.py[cod]
+*$py.class
+
+# FFmpeg binaries
+ffmpeg_bin/
+
+# Models directory (large files)
+models/
+
+# Virtual environment
+venv/
+env/
+.env
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Settings backup
+settings.json.bak
