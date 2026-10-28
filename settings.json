@@ -1,5 +1,5 @@
 {
-    "api_key": "AIzaSyCtUkpYsbdccKHDITNcWzmlYB_lHf75AOg",
+    "api_key": "",
     "gemini_model": "gemini-2.5-flash",
     "model_size": "tiny",
     "device": "auto",
